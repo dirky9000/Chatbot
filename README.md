@@ -7,7 +7,10 @@ This is a simple AI chatbot that will allow a user to ask it questions and it wi
   * Clothes
   * etc.
 
-This is a project in which I am interested in building and plan to work on this over Summer 2023. 
+This is a project in which I am interested in building and planing to work on during Summer 2023. 
+
+# Rough Draft 
+[This is a rough draft on how my project should come out to once I am done](https://github.com/dirky9000/Chatbot/blob/main/docs/Chatbot-Rough-Draft.pdf)
 
 # Language
 I intend to work on this project primpary using Python and spaCy
